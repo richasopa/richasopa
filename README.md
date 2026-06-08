@@ -25,7 +25,7 @@ Python-based analysis and machine learning project exploring profitability drive
 
 ## Tools
 
-Power BI • SQL • Excel • DAX • Power Query • Python • Pandas • Scikit-Learn
+Power BI - SQL - Excel - DAX - Power Query - Python - Pandas - Scikit-Learn
 
 ## Connect
 
