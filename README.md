@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Richa 
 
-<!--
-**richasopa/richasopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning from Design Strategy to Data Analytics and building projects that solve real business problems using data.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lead Funnel & Conversion Analysis
+
+Power BI case study analyzing lead conversion, customer segments, acquisition channels, and sales pipeline performance for a modular furniture business.
+
+### Supply Chain Analytics Dashboard
+
+Power BI dashboard analyzing supplier performance, inventory distribution, shipment efficiency, and operational KPIs.
+
+### Superstore Profit Analysis
+
+Python-based analysis and machine learning project exploring profitability drivers and predicting profit margins using a Random Forest model.
+
+## Currently Learning
+
+* SQL
+* Advanced Power BI
+* Business Analytics
+* Data Storytelling
+
+## Tools
+
+Power BI • SQL • Excel • DAX • Power Query • Python • Pandas • Scikit-Learn
+
+## Connect
+
+LinkedIn: [www.linkedin.com/in/richa-a-52714123b/](http://www.linkedin.com/in/richa-a-52714123b/)
