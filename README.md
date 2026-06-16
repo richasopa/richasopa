@@ -1,32 +1,32 @@
-# Hi, I'm Richa 
+Richa Asopa - Udaipur, India
 
-I'm transitioning from Design Strategy to Data Analytics and building projects that solve real business problems using data.
+https://www.linkedin.com/in/richa-a-52714123b/ 
 
-## Featured Projects
 
-### Lead Funnel & Conversion Analysis
+I come from interior designing, where every project was really a product decision: what to build, for whom, within what constraints, and why it matters.
 
-Power BI case study analyzing lead conversion, customer segments, acquisition channels, and sales pipeline performance for a modular furniture business.
+Now I bring that thinking to data. I build analytics case studies that don't stop at "here's what the numbers say", they go all the way to "here's what the business should do next, and why."
 
-### Supply Chain Analytics Dashboard
 
-Power BI dashboard analyzing supplier performance, inventory distribution, shipment efficiency, and operational KPIs.
+Inside Modular Interiors Analytics
 
-### Superstore Profit Analysis
+One fictional brand. Seven Indian cities. Each part a different business question, a different tool, one connected story.
 
-Python-based analysis and machine learning project exploring profitability drivers and predicting profit margins using a Random Forest model.
+Part 1 - Lead Funnel & Conversion Analysis Power BI
+Why is only 10.81% of our pipeline converting?  41.7% of leads stall at Inquiry. Instagram drives 22% of volume but converts at 3%.
 
-## Currently Learning
+Part 2 - Sales & Revenue Analysis SQL - In progress
+Which cities, products, and customers actually drive revenue?
 
-* SQL
-* Advanced Power BI
-* Business Analytics
-* Data Storytelling
+Other Projects
 
-## Tools
+Supply Chain Analytics Dashboard
+Power BI - Supplier performance - Inventory distribution - Shipment efficiency - Operational KPIs
 
-Power BI - SQL - Excel - DAX - Power Query - Python - Pandas - Scikit-Learn
+Superstore Profit Analysis
+Python - Random Forest - Identified top profitability drivers - Predicted margin outcomes across categories and regions
 
-## Connect
 
-LinkedIn: [www.linkedin.com/in/richa-a-52714123b/](http://www.linkedin.com/in/richa-a-52714123b/)
+Tools
+
+Power BI - SQL - Python - DAX Power Query - Pandas - Scikit-Learn - Excel
