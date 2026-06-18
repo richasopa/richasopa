@@ -12,10 +12,12 @@ Inside Modular Interiors Analytics
 
 One fictional brand. Seven Indian cities. Each part a different business question, a different tool, one connected story.
 
-Part 1 - Lead Funnel & Conversion Analysis Power BI
+Part 1 - Lead Funnel & Conversion Analysis - Power BI
+
 Why is only 10.81% of our pipeline converting?  41.7% of leads stall at Inquiry. Instagram drives 22% of volume but converts at 3%.
 
 Part 2 - Sales & Revenue Analysis SQL - In progress
+
 Which cities, products, and customers actually drive revenue?
 
 Other Projects
