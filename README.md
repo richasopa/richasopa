@@ -13,7 +13,7 @@ Whether it's improving a conversion funnel, evaluating an A/B test, understandin
 ## Featured Projects
 
 ### 🛋️ Modular Interiors Analytics 
-A fictional modular furniture company explored through multiple end-to-end analytics case studies.
+A fictional modular furniture company's lead funnel explored through end-to-end analytics case studies.
 
 ### 🧪 Marketing A/B Testing
 Designed and analyzed an A/B test using Microsoft SQL Server and Python, including hypothesis testing, confidence intervals, effect size, and business recommendations.
