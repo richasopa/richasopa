@@ -44,7 +44,7 @@ Machine learning model using Random Forest to identify the key drivers of profit
 - Power BI
 - Excel
 - Jupyter Notebook
-- Git & GitHub
+- GitHub
 
 ---
 
