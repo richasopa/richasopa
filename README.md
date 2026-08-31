@@ -6,7 +6,7 @@
 
 Every project here starts with a business question.
 
-Whether it's improving a conversion funnel, evaluating an A/B test, understanding customer behavior, or predicting churn, I enjoy turning data into decisions—not just insights.
+Whether it's improving a conversion funnel, evaluating an A/B test, understanding customer behavior, or predicting churn, I enjoy turning data into decisions, not just insights.
 
 ---
 
@@ -14,10 +14,6 @@ Whether it's improving a conversion funnel, evaluating an A/B test, understandin
 
 ### 🛋️ Modular Interiors Analytics 
 A fictional modular furniture company explored through multiple end-to-end analytics case studies.
-
-- 📈 Lead Funnel & Conversion Analysis *(Power BI)*
-- 💰 Sales & Revenue Analysis *(SQL)* — *In Progress*
-- 👥 Customer Segmentation *(Python)* — *Coming Soon*
 
 ### 🧪 Marketing A/B Testing
 Designed and analyzed an A/B test using Microsoft SQL Server and Python, including hypothesis testing, confidence intervals, effect size, and business recommendations.
