@@ -1,34 +1,71 @@
-Richa Asopa - Udaipur, India
+# Richa Asopa - Udaipur, India
 
-https://www.linkedin.com/in/richa-a-52714123b/ 
+### Building analytics projects that answer one question:
 
+# **What should the business do next?**
 
-I come from interior designing, where every project was really a product decision: what to build, for whom, within what constraints, and why it matters.
+Every project here starts with a business question.
 
-Now I bring that thinking to data. I build analytics case studies that don't stop at "here's what the numbers say", they go all the way to "here's what the business should do next, and why."
+Whether it's improving a conversion funnel, evaluating an A/B test, understanding customer behavior, or predicting churn, I enjoy turning data into decisions—not just insights.
 
+---
 
-Inside Modular Interiors Analytics
+## Featured Projects
 
-One fictional brand. Seven Indian cities. Each part a different business question, a different tool, one connected story.
+### 🛋️ Modular Interiors Analytics 
+A fictional modular furniture company explored through multiple end-to-end analytics case studies.
 
-Part 1 - Lead Funnel & Conversion Analysis - Power BI
+- 📈 Lead Funnel & Conversion Analysis *(Power BI)*
+- 💰 Sales & Revenue Analysis *(SQL)* — *In Progress*
+- 👥 Customer Segmentation *(Python)* — *Coming Soon*
 
-Why is only 10.81% of our pipeline converting?  41.7% of leads stall at Inquiry. Instagram drives 22% of volume but converts at 3%.
+### 🧪 Marketing A/B Testing
+Designed and analyzed an A/B test using Microsoft SQL Server and Python, including hypothesis testing, confidence intervals, effect size, and business recommendations.
 
-Part 2 - Sales & Revenue Analysis SQL - In progress
+### 📦 Supply Chain Analytics Dashboard
+Power BI dashboard analyzing supplier performance, inventory distribution, shipment efficiency, and operational KPIs.
 
-Which cities, products, and customers actually drive revenue?
+### 🛒 Superstore Profit Prediction
+Machine learning model using Random Forest to identify the key drivers of profitability across products and regions.
 
-Other Projects
+---
 
-Supply Chain Analytics Dashboard
-Power BI - Supplier performance - Inventory distribution - Shipment efficiency - Operational KPIs
+## Tech Stack
 
-Superstore Profit Analysis
-Python - Random Forest - Identified top profitability drivers - Predicted margin outcomes across categories and regions
+**Languages**
+- SQL
+- Python
+- DAX
 
+**Libraries**
+- Pandas
+- NumPy
+- Statsmodels
+- Scikit-learn
 
-Tools
+**Tools**
+- Microsoft SQL Server
+- Power BI
+- Excel
+- Jupyter Notebook
+- Git & GitHub
 
-Power BI - SQL - Python - DAX Power Query - Pandas - Scikit-Learn - Excel
+---
+
+## Currently Exploring
+
+- Product Analytics
+- Experimentation & A/B Testing
+- Customer Analytics
+- Machine Learning for Business Problems
+
+---
+
+## Connect
+
+💼 LinkedIn  
+https://www.linkedin.com/in/richa-a-52714123b/
+
+---
+
+*"Good analysis doesn't end with an insight. It ends with a decision."*
